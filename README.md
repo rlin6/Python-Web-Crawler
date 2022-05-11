@@ -7,6 +7,7 @@ Time Took: ~3 hours
 
 ## How to Use 
 All the libraries should be installed already with Python except requests and Beautiful Soup. To install those packages in the same environment as the program, enter 
+
 `pip3 install bs4`
 
 and 
