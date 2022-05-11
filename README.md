@@ -32,11 +32,11 @@ https://crawler-test.com/links/broken_links_internal
 Test 2: https://crawler-test.com/links/broken_links_external: There are only broken external links on this page, so the program should print the page url and those linked urls before terminating:
 
 https://crawler-test.com/links/broken_links_external
-	http://robotto.org/broken1
-	http://robotto.org/broken2
-	http://robotto.org/broken3
-	http://robotto.org/broken4
-	http://robotto.org/broken5
+&nbsp;&nbsp;&nbsp;&nbsp;http://robotto.org/broken1
+&nbsp;&nbsp;&nbsp;&nbsp;http://robotto.org/broken2
+&nbsp;&nbsp;&nbsp;&nbsp;http://robotto.org/broken3
+&nbsp;&nbsp;&nbsp;&nbsp;http://robotto.org/broken4
+&nbsp;&nbsp;&nbsp;&nbsp;http://robotto.org/broken5
   
  Test 3: https://crawler-test.com/links/max_external_links: There are 13 absolute urls on this page, each leading to a known website. The first website crawled should include these websites: 
 
